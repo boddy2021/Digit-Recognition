@@ -13,11 +13,10 @@ This project implements a **digit recognition system** using a **neural network*
 2. Once loaded, it selects a **random digit** from the dataset.  
 3. The neural network predicts the digit based on its learned weights.  
 
-## Technologies Used  
-- **MATLAB**  
-- **Sigmoid activation function**  
-- **Logistic regression (output layer)**  
-- **Backpropagation and gradient descent**  
-- **fmincg optimization algorithm**  
-
-Feel free to check out the code and contribute! 🚀  
+## Programming Language and Algorithms  
+- **Programming Language:** MATLAB  
+- **Algorithms:**  
+  - Sigmoid activation function  
+  - Logistic regression (output layer)  
+  - Backpropagation and gradient descent  
+  - fmincg optimization algorithm  
