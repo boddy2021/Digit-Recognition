@@ -34,6 +34,6 @@ This project implements a **digit recognition system** using a **neural network*
 ## Screenshots
 🔹 Predicting a digit using a pretrained Neural Network
 <p align="center"> <img src="https://github.com/user-attachments/assets/64238c54-7a8e-49c5-9ade-30b615ff979e" width="500"> </p>
-![image](https://github.com/user-attachments/assets/7af975fc-f4c5-432c-9308-62a767d2491f)
-Training a Neural Network and predicting a random number.
 
+🔹 Training a Neural Network and predicting a random number
+<p align="center"> <img src="https://github.com/user-attachments/assets/7af975fc-f4c5-432c-9308-62a767d2491f" width="500"> </p> ```
