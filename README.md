@@ -30,3 +30,6 @@ This project implements a **digit recognition system** using a **neural network*
 3. Open `Main.m` and execute it:  
    ```matlab
    Main
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/64238c54-7a8e-49c5-9ade-30b615ff979e)
