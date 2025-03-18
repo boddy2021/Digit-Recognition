@@ -20,5 +20,3 @@ This project implements a **digit recognition system** using a **neural network*
   - **Activation Function:** Sigmoid function  
   - **Optimization Algorithm:** fmincg optimization  
   - **Training Algorithm:** Backpropagation with gradient descent  
-
-Feel free to check out the code and contribute! 🚀  
