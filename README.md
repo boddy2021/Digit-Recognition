@@ -16,7 +16,9 @@ This project implements a **digit recognition system** using a **neural network*
 ## Programming Language and Algorithms  
 - **Programming Language:** MATLAB  
 - **Algorithms:**  
-  - Sigmoid activation function  
-  - Logistic regression (output layer)  
-  - Backpropagation and gradient descent  
-  - fmincg optimization algorithm  
+  - **Cost Function:** Logistic regression cost function
+  - **Activation Function:** Sigmoid function  
+  - **Optimization Algorithm:** fmincg optimization  
+  - **Training Algorithm:** Backpropagation with gradient descent  
+
+Feel free to check out the code and contribute! 🚀  
