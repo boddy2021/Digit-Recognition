@@ -20,3 +20,13 @@ This project implements a **digit recognition system** using a **neural network*
   - **Activation Function:** Sigmoid function  
   - **Optimization Algorithm:** fmincg optimization  
   - **Training Algorithm:** Backpropagation with gradient descent  
+
+## Requirements  
+🔹 **MATLAB** or **GNU Octave** is required to run this application.  
+
+## How to Run  
+1. Open MATLAB or Octave.  
+2. Navigate to the project folder.  
+3. Open `Main.m` and execute it:  
+   ```matlab
+   Main
